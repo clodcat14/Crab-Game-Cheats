@@ -1,2 +1,2 @@
-# Crab-Game-Cheats
-Great CB cheats
+# Easy Virus(ONLY FOR STUDYING)
+Disclaimer: USE IT ONLY FOR STUDYING HOW TO DEFEND YOUR PC

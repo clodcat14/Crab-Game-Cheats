@@ -1,18 +1,15 @@
-Creator- Ara babidjon
-
-HOW TO USE: OPEN THE CHEAT PROGRAMM AND SELECT "START" THEN OPEN THE GAME AND ENJOY CHEATING.
-also you can open another progs to better game.
+USE ONLY FOR STUDYING 
 
 
 
-snow-ball aim: turn on head aim with snowballs.
+Freezer- Can freeze and crush you PC
+
+
+Windows crusher- It's just destroy your windows
+
+Wi-Fi huck- broke Wi-Fi connection 
 
 
 
-WH: wh cheat for crab game.
+Widow bomber- Just spam windows
 
-
-Scene hack: You can add some things and weapons into the game.
-
-
-aim.2.0: new version of aim bot you also can use pld version.
